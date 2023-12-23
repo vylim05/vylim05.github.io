@@ -6,8 +6,8 @@ main:
   - title: "Resume"
     url: /resume/Vivien_Lim_Resume.pdf
 
-  - title: "Portfolio"
-    url: /portfolio/
+#  - title: "Portfolio"
+#    url: /portfolio/
     
 #  - title: "Guide"
 #    url: /markdown/
