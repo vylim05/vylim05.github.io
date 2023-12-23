@@ -1,5 +1,13 @@
 # main links links
-main:
+main: 
+  - title: "CV"
+    url: /cv/
+
+  - title: "Resume"
+    url: /resume/Vivien_Lim_Resume.pdf
+#  - title: "Guide"
+#    url: /markdown/
+
 #  - title: "Publications"
 #    url: /publications/
 
@@ -14,11 +22,3 @@ main:
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-
-  - title: "Resume"
-    url: /resume/Vivien_Lim_Resume.pdf
-#  - title: "Guide"
-#    url: /markdown/
