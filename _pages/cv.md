@@ -11,49 +11,49 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Science, Computer Science, University of Pittsburgh, 2026 (expected)
+* Minor of Science, Information Sciences, University of Pittsburhg, 2026 (expected)
+* Associate Degree, Computer Science, Montgomery College, 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2023: Caregiver
+  * Duties included: Planning events, implementing positive reinforcements or behavioral strategies on kids on the spectrum.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2016: Student Volunteer
+  * 200+ Hours
+  * Duties included: Tutoring, Organizing events, Designed clothing
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Java
+  * 1.5 years of experience
+  * 5+ projects
+  * Eclipse IDE
+* Python
+  * 1 year of experience
+  * 3+ projects
+  * JupyterLabs
+* C++
+  * 1 year of experience
+  * 3+ projectrs
+  * Microsoft Studios
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#Publications
+#======
+
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+#Talks
+#======
+
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#Teaching
+#======
+
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Women in Computer Science
+* Computer Science Club
+* Chinese American Student Association
+* Asian Student Association
