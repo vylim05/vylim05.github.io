@@ -38,18 +38,6 @@ Skills
   * 1 year of experience
   * 3+ projectrs
   * Microsoft Studios
-
-#Publications
-#======
-
-  
-#Talks
-#======
-
-  
-#Teaching
-#======
-
   
 Service and leadership
 ======
