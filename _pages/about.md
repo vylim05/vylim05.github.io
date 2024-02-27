@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-🌸 I am a freshman (technically a sophomore) at the Univerisity of Pittsburgh 
+🌸 I am a freshman (academically a sophomore) at the Univerisity of Pittsburgh 
 
 🌸 I am currently working towards my Bachelor of Science degree in Computer Science (expected graduation 2026) and earning my Associate Degree in Computer Science (expected graduation 2025).
 
@@ -16,6 +16,8 @@ redirect_from:
 
 ## Experience
 
-I have had prior knowledge in programming in C++, Java, and Python, with my most familiar programming language, Java.
+Regarding programming languages, I have coded with Java, Python, JavaScript, C++, TypeScript, and Dart.
 
-I have used Java through GitHub, Eclipse IDE, Command Prompt, etc. 
+I have also attended multiple hackathons such as TreeHacks at Stanford University and TartanHacks at Carnegie Mellon University.
+
+With that, I also have worked fullstack but have a love and appreciation for frontend developing.
