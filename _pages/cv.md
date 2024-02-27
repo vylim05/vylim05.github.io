@@ -20,6 +20,9 @@ Work experience
 * Summer 2023: Caregiver
   * Duties included: Planning events, implementing positive reinforcements or behavioral strategies on kids on the spectrum.
 
+* Winter of 2022: Retail Sales Associate
+  * Duties included: Managing money, customer service, time management, and organization.
+
 * Fall 2016: Student Volunteer
   * 200+ Hours
   * Duties included: Tutoring, Organizing events, Designed clothing
@@ -41,6 +44,7 @@ Skills
   
 Service and leadership
 ======
+* Kappa Theta Phi
 * Women in Computer Science
 * Computer Science Club
 * Chinese American Student Association
