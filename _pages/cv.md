@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Bachelor of Science, Computer Science, University of Pittsburgh, 2026 (expected)
-* Minor of Science, Information Sciences, University of Pittsburhg, 2026 (expected)
+* Minor of Science, Information Sciences, University of Pittsburgh, 2026 (expected)
 * Certification in CompTIA Security+, StormWind, 2025 (expected)
 * Associate Degree, Computer Science, Montgomery College, 2025 (expected)
 
