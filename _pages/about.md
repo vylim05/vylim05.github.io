@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome! I am Vivien Lim 💗"
+title: "Welcome! I am Vivien Lim "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-🌸 I am a senior at the Univerisity of Pittsburgh 
+ I am a senior at the Univerisity of Pittsburgh 
 
-🌸 I am currently working towards my Bachelor of Science degree in computer science (expected graduation 2026) with a minor in information sciences.
+ I am currently working towards my Bachelor of Science degree in computer science (expected graduation 2026) with a minor in information sciences.
 
-🌸 I am certified within CompTia Security+.
+ I am certified within CompTia Security+.
 
-🌸 I am interested in applying as a AI prompt engineer, full-stack software developer, and cybersecurity.
+ I am interested in applying as a AI prompt engineer, full-stack software developer, and cybersecurity.
 
 ## Experience
 
